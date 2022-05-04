@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="playAgain">Play Again!</string>
+    <string name="guess_the_number">Guess The Number!</string>
+    <string name="between_1_and_20">(between 1 and 20)</string>
+    <string name="start_guessing">Start guessing...</string>
+    <string name="no_number">Not a valid number :(</string>
+    <string name="tooHighValue">"Too high"</string>
+    <string name="tooLowValue">"Too low"</string>
+    <string name="success">"Bingo!"</string>
+    <string name="check">Check!</string>
+    <string name="score">Score:</string>
+    <string name="highScore">Highscore:</string>
+    <string name="gameOver">Game over</string>
+</resources>
